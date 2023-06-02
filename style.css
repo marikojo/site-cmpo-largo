@@ -12,7 +12,12 @@ body{
      display: flex;
      align-items: center;
      justify-content: space-between;
-     color: antiquewhite;   
+     color: red;
+    }
+
+    .titulo-corpo{
+        display: flex;
+        justify-content: center;
     }
     
 
