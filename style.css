@@ -4,8 +4,16 @@ body{
     background: #9BD3EB;
     font-family: 'Bree Serif', serif;
     }
-
-
+    
+    .cabeçalho{
+     margin: 0px;
+     padding: 0px;
+     background-color: aliceblue;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     color: antiquewhite;   
+    }
     
 
     
