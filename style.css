@@ -1,18 +1,18 @@
 body{
     padding: 0px;
     margin: 0px;
-    background: #9BD3EB;
+    background: #9be8ff;
     font-family: 'Bree Serif', serif;
     }
     
     .cabeçalho{
      margin: 0px;
      padding: 0px;
-     background-color: aliceblue;
+     background-color: rgb(72, 169, 253);
      display: flex;
      align-items: center;
      justify-content: center;
-     color: red;
+     color: darkred;
 
     }
 
