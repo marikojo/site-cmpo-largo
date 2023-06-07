@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    background: #89deff8c;
+    background: #bfeafc;
     font-family: 'Bree Serif', serif;
     }
     
@@ -19,6 +19,7 @@ body{
     .titulo-corpo{
         display: flex;
         justify-content: center;
+        align-items: center;
     }
     
 
