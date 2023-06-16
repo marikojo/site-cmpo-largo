@@ -8,7 +8,7 @@ body{
     .cabeçalho{
      margin: 0px;
      padding: 0px;
-     background-color: #87CEEB(135, 243, 255);
+     background-color: #87CEEB ;
      display: flex;
      align-items: center;
      justify-content: center;
